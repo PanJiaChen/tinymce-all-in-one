@@ -22,6 +22,8 @@ Cnd in [jsdelivr](https://www.jsdelivr.com/package/npm/tinymce-lang?path=langs)
 - [ja](https://cdn.jsdelivr.net/npm/tinymce-lang/langs/ja.js)
 - ...
 
+[support langs](https://www.tiny.cloud/get-tiny/language-packages/) 
+
 ```js
 tinymce.init({
   selector: "textarea", // change this value according to your HTML
